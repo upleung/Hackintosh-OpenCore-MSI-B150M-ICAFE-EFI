@@ -1,0 +1,2 @@
+# Hackintosh-OpenCore-MSI-B150M-ICAFE-EFI
+MacOS 11 + E3-1220 V5 + HD7750
